@@ -1,0 +1,16 @@
+<details>
+<summary class="linkfont_color">8.通知設定</summary> 
+お気に入りプロ雀士の情報を通知で受け取れます。
+<br/>
+<img src="./images/notification_setting.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+<b>通知タイプ：</b>
+<br/>
+・出勤通知 - プロ雀士の出勤予定
+<br/>
+・イベント通知 - 大会情報
+<br/>
+<br/>
+設定画面からON/OFFを切り替えできます。
+</details>

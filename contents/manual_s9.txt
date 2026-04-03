@@ -1,0 +1,6 @@
+<details>
+<summary class="linkfont_color">10.大会情報</summary> 
+今後の麻雀大会情報を確認できます。
+<br/>
+大会日程、出場プレイヤー等信息が表示されます。
+</details>

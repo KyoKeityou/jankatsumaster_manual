@@ -1,0 +1,9 @@
+<details>
+<summary class="linkfont_color">7.ゲスト一覧</summary> 
+日本プロ麻雀協会所属のプロ雀士一覧を表示します。
+<br/>
+<img src="./images/guest_list.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+各プロ雀士のプロフィールをタップすると、詳細情報やスケジュールを確認できます。
+</details>

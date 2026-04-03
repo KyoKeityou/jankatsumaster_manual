@@ -1,0 +1,11 @@
+<details>
+<summary class="linkfont_color">11.このアプリについて</summary> 
+<b>アプリ名：</b>雀客大师 (Jankatsu Master)
+<br/>
+<b>バージョン：</b>1.5.0
+<br/>
+<b>対応OS：</b>iOS / Android
+<br/>
+<br/>
+© 2024 JANKATSU MASTER
+</details>

@@ -1,0 +1,24 @@
+<details>
+<summary class="linkfont_color">3.カレンダー</summary> 
+プロ雀士の出勤スケジュールを月間で確認できます。
+<br/>
+<img src="./images/calendar_month.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+<b>使い方：</b>
+<br/>
+・「＜」／「＞」をタップして前後の月へ遷移
+<br/>
+・日付をタップするとその日の予定を表示
+<br/>
+・🏠 Homesymbolをタップすると今日に戻る
+<br/>
+<br/>
+<b>見方：</b>
+<br/>
+・赤文字：日曜日
+<br/>
+・青文字：土曜日
+<br/>
+・赤文字（祝日）：日本の祝日
+</details>

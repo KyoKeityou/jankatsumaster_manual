@@ -1,0 +1,20 @@
+<details>
+<summary class="linkfont_color">5.お気に入り機能</summary> 
+好きなプロ雀士を登録して、スケジュールを管理できます。
+<br/>
+<img src="./images/favorite_list.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+<b>登録方法：</b>
+<br/>
+1.「お気に入り登録・解除」ボタンをタップ
+<br/>
+2.プロ雀士を検索して選択
+<br/>
+3.お気に入りに追加される
+<br/>
+<br/>
+<b>解除方法：</b>
+<br/>
+お気に入り一覧から「解除」ボタンをタップ
+</details>

@@ -1,0 +1,23 @@
+<details>
+<summary class="linkfont_color">1.概要</summary> 
+雀客大师（Jankatsu Master）は、日本プロ麻雀協会所属のプロ雀士情報を提供するアプリです。
+<br/>
+プロ雀士のお気に入り登録、スケジュール管理、雀荘検索等功能があります。
+<br/>
+<img src="./images/home.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+<b>主な機能：</b>
+<br/>
+・プロ雀士検索・一覧
+<br/>
+・カレンダーによるスケジュール確認
+<br/>
+・お気に入り登録
+<br/>
+・雀荘検索
+<br/>
+・スコア計算機・サイコロ
+<br/>
+・大会情報
+</details>

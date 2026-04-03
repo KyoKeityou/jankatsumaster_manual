@@ -1,0 +1,18 @@
+<details>
+<summary class="linkfont_color">4.検索機能</summary> 
+プロ雀士、雀荘、イベントを検索できます。
+<br/>
+<img src="./images/search.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+<b>検索タイプ：</b>
+<br/>
+・プレイヤー検索 - プロ雀士名で検索
+<br/>
+・雀荘検索 - 地域の雀荘を検索
+<br/>
+・イベント検索 - 大会・イベントを検索
+<br/>
+<br/>
+検索結果をリストで表示します。
+</details>
