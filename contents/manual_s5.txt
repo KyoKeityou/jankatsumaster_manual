@@ -2,12 +2,18 @@
 <summary class="linkfont_color">6.ツール</summary> 
 雀卓で使える便利ツールがあります。
 <br/>
+<br/>
 <img src="./images/tool_calculator.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+<img src="./images/tool_dice.jpg" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 <b>用意されているツール：</b>
 <br/>
-・🧮 スコア計算機 - 麻雀の点数を計算
+・電卓 - 点数計算
 <br/>
-・🎲 サイコロ - ランダムで配牌starting positionを決定
+・サイコロ - 親決め／配牌位置の決定（サイコロの個数が1個〜3個まで選択可能）
+<br/>
+<br/>
 </details>

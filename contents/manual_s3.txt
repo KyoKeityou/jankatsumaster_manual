@@ -1,18 +1,25 @@
 <details>
-<summary class="linkfont_color">4.検索機能</summary> 
-プロ雀士、雀荘、イベントを検索できます。
+<summary class="linkfont_color">4.検索・お気に入り登録</summary> 
+麻雀プロ、雀荘、麻雀BARなどを検索できます。
+<br/>
 <br/>
 <img src="./images/search.jpg" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-<b>検索タイプ：</b>
+<b>使い方：</b>
 <br/>
-・プレイヤー検索 - プロ雀士名で検索
+・上部の入力欄（名前／ふりがな／関連ワード）に検索文字を入力し、検索をタップ
 <br/>
-・雀荘検索 - 地域の雀荘を検索
-<br/>
-・イベント検索 - 大会・イベントを検索
+・下部の選択リストから、団体名／カテゴリ（雀荘、麻雀BARなど）を一つ選択し、検索をタップ
 <br/>
 <br/>
-検索結果をリストで表示します。
+検索結果を表示します。
+<br/>
+<br/>
+<img src="./images/search_results.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+検索結果一覧より、お気に入り登録／解除することができます。
+<br/>
+<br/>
 </details>

@@ -2,14 +2,16 @@
 <summary class="linkfont_color">9.設定画面</summary> 
 アプリの各種設定を行えます。
 <br/>
+<br/>
 <img src="./images/setting.jpg" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-<b>設定項目：</b>
+・プッシュ通知 - アプリ全体の通知受信のOFF／ONを切り替えできます。
 <br/>
-・🔔 プッシュ通知 - ON/OFF切り替え
+・プロフィール - プロフィール設定画面に遷移します
 <br/>
-・👤 プロフィール - 个人信息変更
 <br/>
-・ℹ️ バージョン情報 - アプリバージョン確認
+<img src="./images/profile.jpg" border="1" width="318" height="689" /> 
+<br/>
+<br/>
 </details>
