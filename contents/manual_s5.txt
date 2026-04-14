@@ -1,6 +1,6 @@
 <details>
 <summary class="linkfont_color">6.ツール</summary> 
-雀卓で使える便利ツールがあります。
+麻雀関係のツールをご利用頂けます。
 <br/>
 <br/>
 <img src="./images/tool_calculator.jpg" border="1" width="318" height="689" /> 
